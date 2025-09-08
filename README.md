@@ -1,6 +1,6 @@
-# 🧠 AI-Agents-to-assist-for-Medical-Diagnosis
+# 🧠 AI Agent for Medical Diagnosis report upload any medical report .txt file
 
-An interactive Streamlit-based medical assistant powered by domain-specific AI agents. This tool allows healthcare professionals and researchers to analyze medical reports using simulated specialists (Cardiologist, Psychologist, Pulmonologist) and generate comprehensive diagnostic insights. It runs locally using the Mistral LLM via the Ollama backend.
+An AI agent interactive Streamlit-based medical assistant powered by domain-specific AI agents. This tool allows healthcare professionals and researchers to analyze medical reports using specialists (Cardiologist, Psychologist, Pulmonologist) and generate comprehensive diagnostic insights. It runs locally using the Mistral LLM via the Ollama backend.
 
 ## 📌 Features
 
@@ -16,8 +16,8 @@ An interactive Streamlit-based medical assistant powered by domain-specific AI a
 ### 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/AI-Agents-to-assist-for-Medical-Diagnosis.git
-cd AI-Agents-to-assist-for-Medical-Diagnosis
+git clone https://github.com/yourusername/Medical-AI
+cd Medical-AI
 2. Install Requirements
 Create a virtual environment and install dependencies:
 
