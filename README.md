@@ -1,8 +1,8 @@
-# 🧠 AI Agent for Medical Diagnosis report upload any medical report .txt file
+#  AI Agent for Medical Diagnosis report upload any medical report .txt file
 
 An AI agent interactive Streamlit-based medical assistant powered by domain-specific AI agents. This tool allows healthcare professionals and researchers to analyze medical reports using specialists (Cardiologist, Psychologist, Pulmonologist) and generate comprehensive diagnostic insights. It runs locally using the Mistral LLM via the Ollama backend.
 
-## 📌 Features
+##  Features
 
 - 🔬 **Specialist Simulations**: Analyze reports from the perspective of a cardiologist, psychologist, or pulmonologist using dedicated prompts.
 - 🎛️ **Manual Agent Selection**: Choose a specialist or run a full multidisciplinary analysis via the frontend interface.
@@ -11,7 +11,7 @@ An AI agent interactive Streamlit-based medical assistant powered by domain-spec
 - 💾 **Report Export**: Final diagnosis is saved to `results/final_diagnosis.txt` for record-keeping.
 - 🛠️ **Local LLM Integration**: Uses `mistral-nemo:latest` model via `langchain_ollama` for privacy-respecting, offline AI inference.
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. **Clone the Repository**
 
