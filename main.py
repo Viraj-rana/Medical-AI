@@ -1,6 +1,7 @@
 import streamlit as st
 from langchain_ollama import ChatOllama
 from langchain_core.tools import tool
+import pandas as pd
 import os
 
 # Rebuild model schema
