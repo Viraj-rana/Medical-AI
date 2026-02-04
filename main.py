@@ -39,6 +39,7 @@ def analyze_psychologist(medical_report: str):
     return llm.invoke(prompt).content
 
 @tool
+def analyze@  #optional you can remote that 4/2/26
 def analyze_pulmonologist(medical_report: str):
     """
     Analyze the patient's report from a pulmonologist's perspective.
