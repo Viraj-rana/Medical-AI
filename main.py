@@ -1,10 +1,11 @@
 import streamlit as st
 from langchain_ollama import ChatOllama
 from langchain_core.tools import tool
+from numpy import np
 import pandas as pd
 import os
 
-# Rebuild model schema
+# Rebuild model schema from starting
 ChatOllama.model_rebuild()
 
 # --- Define Specialist Tools ---
