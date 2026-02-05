@@ -127,7 +127,7 @@ if uploaded_file:
                 st.markdown("### ✅ Final Diagnosis")
                 st.markdown(final_diagnosis)
 
-                # Save to file
+                # Save to file in your computer folder
                 output_path = "results/final_diagnosis.txt"
                 os.makedirs(os.path.dirname(output_path), exist_ok=True)
                 with open(output_path, "w") as f:
