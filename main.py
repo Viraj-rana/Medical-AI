@@ -6,7 +6,7 @@ import pandas as pd
 import os
 import cv
 
-# Rebuild model schema from starting
+# Rebuild model schema from starting and updating the models 
 ChatOllama.model_rebuild()
 
 # --- Define Specialist Tools ---
