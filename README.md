@@ -38,7 +38,7 @@ Edit
 streamlit run app.py
 
 📄 How to Use
-Upload a .txt file containing the medical report.
+Upload a .txt file containing the medical report will be ready.
 
 Choose one of the following specialists from the dropdown:
 
